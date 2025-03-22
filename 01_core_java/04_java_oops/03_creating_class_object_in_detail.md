@@ -68,4 +68,10 @@ kyuki string ka default value null haii
 
 price ka 0.00 kyuki uska default value haii
 
+```text
+Notice variable ko directly use nai kar rahe haii
+mai class ke thorugh value allocate aur
+output me show bhi kar rahe haii
+``` 
+
 
