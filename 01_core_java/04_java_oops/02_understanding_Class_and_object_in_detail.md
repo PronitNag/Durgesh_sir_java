@@ -20,7 +20,7 @@
   # Class  
   - **Blueprint** jisse individual objects create hote hain.  
   - **Logical Entity** hoti hai.  (matlab isko touch ka feel nai kar sakte)
-  -  Object ek class ka **bout sare** instance ho sakte haii  
+  -  Object ek class ka **bout sare** instance(Real thing ) ho sakte haii  
   - **Class ke paas** properties aur behaviours declare kiye ja sakte hain.  
 
 
