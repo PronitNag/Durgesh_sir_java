@@ -55,7 +55,10 @@ class Pen{
 
 ![object and class ](https://github.com/user-attachments/assets/79123859-431c-4520-b153-ed325052c5fa)
 
-ab in dono line ko comment out kar do to value null ayega kyuki string ka default value null haii
+```text
+ab in dono line ko comment out kar do to value null ayega
+ kyuki string ka default value null haii
+```
 
 ```java
         p1.model="Liko fiko";
