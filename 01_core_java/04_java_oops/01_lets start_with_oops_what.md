@@ -1,10 +1,13 @@
-Object-Oriented Programming ek tarika hai jisme hum classes aur objects ka use karke program design karte hain.
+# Object-Oriented Programming (OOPs)
 
-OOPs ke kuch important concepts hote hain:
+Object-Oriented Programming ek tarika hai jisme hum **classes** aur **objects** ka use karke program design karte hain.
 
-a. Object (वस्तु) – Real-world entity jaise ki car, pen, mobile, etc.
-b. Class (क्लास) – Objects banane ka blueprint.
-c. Inheritance (विरासत) – Ek class doosri class ki properties aur methods use kar sakti hai.
-d. Polymorphism (बहुरूपता) – Ek cheez alag-alag tareeke se behave kar sakti hai.
-e. Abstraction (सारांशीकरण) – Sirf zaroori details dikhana, baki cheezein chhupana.
-f. Encapsulation (संयोजन) – Data aur functions ko ek saath pack karna, taaki security bani rahe
+## OOPs ke kuch important concepts hote hain:
+
+- **Object (वस्तु)** – Real-world entity jaise ki car, pen, mobile, etc.  
+- **Class (क्लास)** – Objects banane ka blueprint.  
+- **Inheritance (विरासत)** – Ek class doosri class ki properties aur methods use kar sakti hai.  
+- **Polymorphism (बहुरूपता)** – Ek cheez alag-alag tareeke se behave kar sakti hai.  
+- **Abstraction (सारांशीकरण)** – Sirf zaroori details dikhana, baki cheezein chhupana.  
+- **Encapsulation (संयोजन)** – Data aur functions ko ek saath pack karna, taaki security bani rahe.  
+
