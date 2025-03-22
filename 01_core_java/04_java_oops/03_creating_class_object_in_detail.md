@@ -52,8 +52,16 @@ class Pen{
 - Notice humlog main me Pen ka Object banaya haii **new Pen()** fir usko store kiya hai,Jab humne wo kiya to object bane heap me  
 - fir refernce variable **p1,p2** se us heap object ko point kiya(ye refrence variable store hua stack me)
 - fir humlogo me **.(dot operater)** ke through usme value dala,aur use ke through write method ko call kiyaa
-- 
-- 
+
+![object and class ](https://github.com/user-attachments/assets/79123859-431c-4520-b153-ed325052c5fa)
+
+ab in dono line ko comment out kar do to value null ayega kyuki string ka default value null haii
+
+```java
+        p1.model="Liko fiko";
+        p2.model= "Renolds";
+```
+
 
 
 
