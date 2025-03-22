@@ -17,7 +17,7 @@
   - Fetching  
   - Wagging tail
  
-- **Class:**  
+  # Class  
   - **Blueprint** jisse individual objects create hote hain.  
   - **Logical Entity** hoti hai.  (matlab isko touch ka feel nai kar sakte)
   -  Object ek class ka **bout sare** instance ho sakte haii  
