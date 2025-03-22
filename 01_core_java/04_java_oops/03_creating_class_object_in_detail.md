@@ -56,8 +56,9 @@ class Pen{
 ![object and class ](https://github.com/user-attachments/assets/79123859-431c-4520-b153-ed325052c5fa)
 
 ```text
-ab in dono line ko comment out kar do to value null ayega
- kyuki string ka default value null haii
+ab in dono line ko comment out karo
+tho value null ayega
+kyuki string ka default value null haii
 ```
 
 ```java
@@ -65,6 +66,6 @@ ab in dono line ko comment out kar do to value null ayega
         p2.model= "Renolds";
 ```
 
-
+price ka 0.00 kyuki uska default value haii
 
 
