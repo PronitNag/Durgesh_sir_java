@@ -1,6 +1,13 @@
 # Java Constructors
 
-A constructor in Java is a special block of code that initializes the newly created object. It holds the same name as its class and behaves like a method, though it doesn’t have any return type. Constructors breathe life into an object, setting initial values and ensuring that the object is in a valid state upon creation.
+- A constructor in Java is a special block of code that **initializes** the newly created object.
+- It holds the **same name** as its class and behaves like a method, though it doesn’t have any **return type**.
+- Constructors **breathe life into an object**, setting initial values and ensuring that the object is in a valid state upon creation.
+
+## Importance of Constructors
+It is not mandatory to create a constructor in a Java class. If no constructor is explicitly defined, the Java compiler automatically provides a **default constructor**.
+
+However, when we define any constructor in a class, the compiler **does not** generate a default constructor for us.
 
 ## Types of Constructors
 
