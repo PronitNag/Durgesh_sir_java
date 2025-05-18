@@ -1,0 +1,356 @@
+# Foundation of Java with Logic Building
+
+## Course Overview
+This beginner-friendly course covers the basics of Java programming alongside essential problem-solving skills. It covers topics like variables, loops, object-oriented programming, and projects, making it perfect for anyone starting their journey into coding.
+
+## Course Instructor
+**Durgesh Kr Tiwari**  
+*Experienced trainer in both offline and online environments.*
+
+## Course Structure
+
+### 01. Introduction to Course || Resources
+- 7 Lessons • 9 Attachments
+- Resources include:
+  - Practice Programs Sheets
+  - Source Codes Covered in Course
+  - Interview Questions & Answers
+  - How to ask doubts
+  - Java Mastery PPTs (3 files)
+
+### 02. Java Basics
+- 21 Lessons • 1 Test
+  1. What is Java
+  2. Where is being used
+  3. Why to learn Java
+  4. History of Java
+  5. Complete Version History
+  6. Features of Java
+  7. JVM vs JRE vs JDK
+  8. Complete Environment Local Setup
+  9. First Java Program with Internal Detail
+  10. Important points about Java programs
+  11. Keywords in Java
+  12. Identifiers in Java | Rules for identifiers
+  13. Variables in Java
+  14. Local Variables in detail
+  15. Instance and Static variables
+  16. Data Types and Primitive Data Types
+  17. Everything about Literal | Escape Sequence Characters
+  18. Non Primitive Data Types | How to create own data types
+  19. Type Casting | Type Conversion in detail | Implicit Type
+  20. Explicit Type Casting in detail
+  21. 5 Important Naming Conventions
+  - QUIZ
+
+### 03. Programming and Logic Building
+- 42 Lessons • 1 Test
+  1. Introduction to Section | Control Statements
+  2. Complete Conditional Statements | If | If Else | Ladder If
+  3. Taking input using Scanner in detail
+  4. Taking Input using Buffered Reader in Detail
+  5. Taking input using Command Line in Detail
+  6. Important point about Conditionals in Java
+  7. Practice Program (PP) on Conditional Statements--9 Programs
+  8. Practice Program(PP) on Conditional - Grading System
+  9. Practice Program(PP) on Conditional-- Salary Calculator
+  10. Practice Program(PP) on Conditional- Assignment
+  11. Switch Statement
+  12. Ternary Operator | Conditional Operator with Example
+  13. Loops- for loops
+  14. Practice Programs - Loops
+  15. Loops -- While loop
+  16. print() and println() detail explanation | when to use what
+  17. do while loop_2
+  18. Jump and continue statement in detail
+  19. Arrays in detail
+  20. Creating, accessing and modifying arrays in detail
+  21. Creating 2D Array | Accessing Array Elements | Modifying
+  22. Loops- Foreach Loops | Enhanced For Loop
+  23. VS Code Setup | Making array of dynamic Sizes
+  24. PP (Arrays) - 30 Programs for logic building | ArrayCopy
+  25. PP( Arrays ) - Count Frequency | Two important Approach
+  26. PP (Arrays)- Left Rotate array program
+  27. PP (Arrays)- Reverse Array Program | Assignment
+  28. PP (Arrays)- Largest in Array |Smallest in Array| Sum | Etc
+  29. PP (Arrays) | Sorting Explained | Ascending | Descending
+  30. PP (Arrays) - Finding Third Largest | Second Largest |Fourth
+  31. PP (2D Array )- Adding Two Matrix
+  32. Functions in Java
+  33. Actual Parameters | Formal Parameters |Call By Value and Ref
+  34. Detail matrix multiplication program
+  35. Finishing array practice programs
+  36. Starting Looping PP- 1 to 7 Programs
+  37. Looping PP - 8 to 15 | Prime | HCF | Factorial
+  38. Looping PP - 16 | Number based programs | count digit
+  39. Looping PP - 17 to 20 | Reverse | Palindrome | Firstlast sum
+  40. Looping PP - 21 to 39 | Programs
+  41. Looping PP - 40 to 53 | Automorphic | Magic etc
+  42. Looping PP - 54 to 62 | Special
+  - QUIZ
+
+### 04. OOPS
+- 25 Lessons • 1 Test
+  1. Let's start with OOPS
+  2. Understand class and object in detail with example
+  3. Creating class object in details with explanation
+  4. Variable and method with classes and objects
+  5. Constructors
+  6. Constructor interview topic
+  7. Overloading | Constructor overloading | Method overloading
+  8. This keyword in detail
+  9. Static keywords in detail
+  10. What is inheritance in detail with example
+  11. How to do inheritance | 12 types of inheritance
+  12. Type of inheritance
+  13. Super keyword in detail
+  14. Important points about super and this
+  15. Overriding in detail with example
+  16. What is abstraction with real world example
+  17. Abstract classes in detail
+  18. Abstract detail practical session
+  19. Interface in detail
+  20. Important point about interface and Java 8 new thing
+  21. Polymorphism in detail
+  22. Learn polymorphism with example
+  23. Encapsulation in detail with example
+  24. Final keywords in detail with example
+  25. Instance of operator in Java detail with example
+  - QUIZ
+
+### 05. Java Packages
+- 8 Lessons • 1 Test
+  1. What is packages | Advantages of packages
+  2. Types of packages
+  3. How to create packages
+  4. Handling complex packages in classes & class path explanation
+  5. Using classes of packages
+  6. Access modifiers
+  7. Creating jar file
+  8. Extracting jar file | All about manifest
+  - QUIZ
+
+### 06. String Handling
+- 11 Lessons • 1 Test
+  1. String handling | What is string in Java
+  2. Ways to create string in Java
+  3. Performing operations with java.lang.String
+  4. String class method part 1
+  5. String class methods part 2
+  6. String method final part 3
+  7. String buffer class | Difference string and string buffer
+  8. String buffer methods
+  9. Finishing string builder | String buffer vs string builder
+  10. String constant pool in detail with example
+  11. String tokenizer class
+  - QUIZ
+
+### 07. Exception Handling
+- 10 Lessons • 1 Test
+  1. What is exception and exception handling with example
+  2. Exception Hierarchy in detail
+  3. Exception types & Understanding check and unchecked exception
+  4. Handling exception in Java programs
+  5. Finally keyword | Important combinations
+  6. Throw keywords
+  7. Creating custom exception (both checked and unchecked)
+  8. Throws keywords in detail with example
+  9. Try with resources | Using custom resources | Java new features
+  10. Generalized exception handling
+  - QUIZ
+
+### 08. Collection Framework
+- 19 Lessons • 1 Test
+  1. Start using IntelliJ idea | new IDE
+  2. What is collection framework | Explanation with example
+  3. Benefits of collection framework
+  4. Start working with collection frameworks | Type safe
+  5. Collection hierarchy | Collection and list in detail
+  6. Collection hierarchy | Queue and deque
+  7. Collection hierarchy | Set and sorted set
+  8. Different standard ways to traverse collection in detail
+  9. Collection classes implementations
+  10. Collection interface methods | Don't need to learn
+  11. List | Queue | Set interface methods | Discussion
+  12. Operation with custom object
+  13. Changing behaviour of contains method
+  14. Custom sorting logic with comparable
+  15. Custom sorting logic with comparator
+  16. Map interface and map hierarchy
+  17. Working with HashMap | LinkedHashMap | TreeMap
+  18. Important map methods with examples
+  19. Working with concurrent collection
+  - QUIZ
+
+### 09. Miscellaneous Concepts
+- 13 Lessons
+- 1 Test
+- **Topics covered:**
+  1. Generics in Java
+  2. Creating class & method with generic & providing type safety
+  3. Generic wildcards
+  4. Java nested classes
+  5. Types of inner classes
+  6. Local inner classes
+  7. Anonymous classes
+  8. Method local inner classes
+  9. Static nested classes
+  10. Regular Expressions (Regex) in Java
+  11. Creating and understanding regex in Java
+  12. Regular expression applications (Email validator, Username validators)
+  13. Quiz
+
+### 10. Java New Features - Java 8
+- 22 Lessons
+- 1 Trial lesson
+- **Topics covered:**
+  1. Java 8 new features introduction
+  2. Lambda expressions
+  3. Understanding lambda usage
+  4. Functional interfaces
+  5. Passing lambda to methods and returning from methods
+  6. Method references
+  7. Creating lambda
+  8. Stream API and its features
+  9. Stream generation in detail
+  10. Stream operations (forEach, filter)
+  11. Stream operations (map, reduce, collect, ifPresent)
+  12. Stream operation (flatMap)
+  13. Finishing stream API operations
+  14. Default methods in interfaces
+  15. Static methods in interfaces
+  16. ForEach method()
+  17. Collectors class
+  18. StringJoiner class
+  19. Type reference
+  20. Optional class
+  21. Type annotations in Java 8
+  22. Section summary
+
+### 11. Java New Features - Java 9, 11, 17, 21
+- 15 Lessons
+- **Topics covered:**
+  1. Introduction to section & Java 9 features
+  2. JShell introduction and step-by-step usage
+  3. JShell coding, code completion, and modifying definitions
+  4. JShell saving snippets to file and loading from file
+  5. JShell adding external jar files
+  6. Module system (concepts and implementation)
+  7. Creating modules
+  8. Working with multiple modules
+  9. Understanding module system in IntelliJ
+  10. Stream API improvements
+  11. Private methods in interfaces
+  12. Try-with-resource enhancements
+  13. Inner/Anonymous classes enhancements
+  14. New factory methods in LIST, SET, and Map interfaces
+  15. All new features review and summary
+
+### 12. MySQL Database
+- 20 Lessons
+- 1 Test
+- **Topics covered:**
+  1. Database fundamentals and MySQL introduction
+  2. MySQL architecture and how it works
+  3. Starting with MySQL using terminal
+  4. Database operations (CREATE, TABLE, COLUMN, ADD, MODIFY, RENAME, DROP)
+  5. Inserting rows (single & multiple)
+  6. Updating and deleting rows
+  7. SQL aliases
+  8. SELECT statements with AND, OR, NOT operators
+  9. ORDER BY, LIMIT, OFFSET clauses
+  10. SQL functions (COUNT, SUM, AVG)
+  11. String functions
+  12. Other important functions
+  13. IN operator
+  14. LIKE operator
+  15. Foreign keys (theory)
+  16. Foreign keys (practical implementation & different ways to create/drop)
+  17. Fetching data from multiple tables using JOINs
+  18. Using MySQL Workbench GUI client
+  19. Exporting and importing data
+  20. Managing users
+  21. Quiz
+
+### 13. GUI Programming & Projects
+- 24 Lessons
+- 1 Test
+- **Topics covered:**
+  1. Introduction to GUI programming
+  2. All about AWT framework & component hierarchy
+  3. All about Swing framework
+  4. Creating windows and basic components (Button, Label)
+  5. Layout managers in detail
+  6. Creating beautiful forms to understand layout working
+  7. Working with borders
+  8. Working with images in GUI
+  9. Event handling concepts
+  10. Handling button click events with GUI messages
+  11. Playing with key listeners
+  12. Playing with mouse and mouse motion listeners
+  13. Concept of adapter classes
+  14. **Tic Tac Toe Game:**
+     - Game development basics
+     - Best logic implementation
+     - Setting icons to buttons
+  15. **Drawing & Animation:**
+     - Painting on screen
+  16. **Snake Game:**
+     - Initial coding
+     - Game development
+     - Adding score and apple features
+  17. **Hit The Bat Game:**
+     - Game introduction
+     - Drawing bat and ball on screen
+     - Moving ball and bat
+     - Checking for bat-ball collision
+  18. Quiz
+
+### 14. Certificate
+- 1 Lesson
+
+## Course Content Details
+
+1. **Introduction to Java:** Understand the significance of Java in software development, its history, and its wide-ranging applications.
+
+2. **Setting Up Environment:** Step-by-step guidance on installing and configuring essential software tools like JDK and IDE for Java development.
+
+3. **Basic Concepts:** Dive into core programming concepts including variables, data types, operators, and expressions to build a strong foundation.
+
+4. **Control Structures:** Learn how to control the flow of execution using decision-making statements (if-else, switch-case) and looping structures (for, while, do-while).
+
+5. **Methods and Functions:** Master the art of defining, calling, and passing arguments to methods for better code organization and reusability.
+
+6. **Object-Oriented Programming (OOP):** Explore OOP principles such as classes, objects, inheritance, polymorphism, and encapsulation to write more modular and scalable code.
+
+7. **Arrays and Collections:** Understand the use of arrays and collection classes like ArrayLists and HashMaps for efficient data storage and manipulation.
+
+8. **Exception Handling:** Learn to handle exceptions gracefully using try-catch blocks, ensuring robustness and reliability in your programs.
+
+9. **Logic Building Exercises:** Engage in a series of logic-building exercises and programming challenges designed to enhance problem-solving skills and reinforce Java concepts.
+
+10. **Project Work:** Apply acquired knowledge to hands-on projects, integrating concepts learned throughout the course into practical Java applications.
+
+11. **Code Review and Feedback:** Participate in code reviews and receive constructive feedback on your code submissions to improve coding standards and practices.
+
+12. **Assessments and Quizzes:** Regular assessments and quizzes to evaluate understanding and track progress, ensuring mastery of Java fundamentals.
+
+13. **150+ Programming Questions:** Solve a diverse range of over 150 programming questions to reinforce learning and enhance problem-solving abilities.
+
+14. **Java New Features:** Stay updated with the latest Java features and enhancements, including an overview of recent updates and their implications on Java development.
+
+15. **Regular Expressions (Regex):** Explore the power of regular expressions in Java for pattern matching and text manipulation, with practical examples and exercises.
+
+16. **GUI Programming:** Learn the basics of Graphical User Interface (GUI) programming in Java, including event handling and component layout, to create interactive applications.
+
+17. **Certificate of Completion:** Receive a certificate upon successfully completing the course, validating proficiency in Java programming and logic building.
+
+18. **Future Learning Pathways:** Get guidance on advanced Java topics, frameworks, and technologies, empowering further growth and specialization in Java development.
+
+---
+
+*"Foundation of Java with Logic Building" offers a comprehensive learning experience, equipping students with the skills and knowledge needed to excel in Java programming and beyond.*
+
+**Note:** This is a currently running course with videos being added on a daily basis.
+
+© 2025 Learn Code With Durgesh
