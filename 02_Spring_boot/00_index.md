@@ -5,11 +5,13 @@
 
 Here is a detailed breakdown of the topics covered:
 
-*   **01 Introduction to Course** (2 TRIALS, 4 Lessons) [1-21]
-    *   How to Ask Doubt (Pdf) [11]
-    *   Getting started with course (TRIALVideo) [11]
-    *   What we cover in this course (TRIALVideo) [11]
-    *   Important Video How to solve error (Video) [11]
+
+### 01 Introduction to Course** (2 TRIALS, 4 Lessons) [1-21]
+
+*   How to Ask Doubt (Pdf) [11]
+*   Getting started with course (TRIALVideo) [11]
+*   What we cover in this course (TRIALVideo) [11]
+*   Important Video How to solve error (Video) [11]
 
 
 ### Setup and Environment Setup
@@ -52,28 +54,7 @@ This chapter contains **22 Lessons** and **2 Attachments**.
 *   The course also covers core concepts such as Dependency Injection, Inversion of Control, Tight Coupling, Loose Coupling, Bean Scope, Spring Configuration, and Autowiring.
 
 ### Chapter 3: Spring Core Concepts
-This chapter contains **22 Lessons** and **2 Attachments** [112, 114].
-*   Introduction to Spring Framework [114]
-*   Spring Framework Modules [114]
-*   Understanding Tight Coupling with Example [114]
-*   Loose Coupling with Example [114]
-*   Beans and Dependencies management using Spring [114]
-*   Resolve Ambiguity @Primary @ComponentScan Annotations [114]
-*   Removing Bean conflict using @Qualifier [114]
-*   Types of Injection, Setter, Constructor and Field Injection [114]
-*   Another way of Creating bean @Bean Annotations [114]
-*   Bean Scopes Important Concepts [114]
-*   Bean Life Cycle @PostConstruct @PreDestroy [114]
-*   Clearing Some Spring Terms [114]
-*   Spring without Spring Boot [114]
-*   Handling Multiple Configurations in Spring [114]
-*   Spring Configurations using XML [114]
-*   Learning XML Configuration in details [114]
-*   Using Java and XML Configurations together [114]
-*   Important Notice about xml [114]
-*   Source code of the section (Article) [114]
-*   Spring Core : Slides (Pdf) [114]
-*   The course also covers core concepts such as Dependency Injection, Inversion of Control, Tight Coupling, Loose Coupling, Bean Scope, Spring Configuration, and Autowiring [2, 5, 13, 80-100, 104-107, 109, 110, 115, 116].
+
 
 ### Chapter 4: Spring Boot
 This chapter contains **16 Lessons** and **3 Attachments** [112, 117].
