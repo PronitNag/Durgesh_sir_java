@@ -53,8 +53,6 @@ This chapter contains **22 Lessons** and **2 Attachments**.
 *   Spring Core : Slides (Pdf)
 *   The course also covers core concepts such as Dependency Injection, Inversion of Control, Tight Coupling, Loose Coupling, Bean Scope, Spring Configuration, and Autowiring.
 
-### Chapter 3: Spring Core Concepts
-
 
 ### Chapter 4: Spring Boot
 This chapter contains **16 Lessons** and **3 Attachments** [112, 117].
@@ -74,7 +72,7 @@ This chapter contains **16 Lessons** and **3 Attachments** [112, 117].
 *   Spring Boot: Slides (Pdf) [117]
 
 
- **05 Spring MVC** (32 Lessons, 2 Attachments) [2-10, 17, 18, 104, 105, 107-128]
+ ### 05 Spring MVC (32 Lessons, 2 Attachments) [2-10, 17, 18, 104, 105, 107-128]
     *   What is Website ? How Website Works (Video) [124]
     *   Static Vs Dynamic Website Explain (Video) [124]
     *   Website vs Web Application Explanation (Video) [124]
